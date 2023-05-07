@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn&display=swap');
+
+body {
+  background-color: #F2F2F2;
+  color: #121212;
+  font-family: "Vollkorn";
+  font-size: 20px;  
+}
+
+a:link {
+  color: #65737e;
+}
+
+a:visited {
+  color: #343d46;
+}
+
+a:hover {
+  color: #a7adba;
+}
